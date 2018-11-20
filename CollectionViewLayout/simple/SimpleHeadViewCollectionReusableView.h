@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SimpleHeadViewCollectionReusableView.h
 //  CollectionViewLayout
 //
 //  Created by PAD_Chenxiang_MAC on 2018/1/18.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface SimpleHeadViewCollectionReusableView : UICollectionReusableView
 
 @end
-
